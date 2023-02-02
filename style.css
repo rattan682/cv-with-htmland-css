@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    
+}
+h2{
+    color: #86C8BC;
+}
+.landing-page{
+    background-color: #3C6255;
+    text-align: center;
+}
+.cloud-2{
+    position: absolute;
+}
+.cloud-1{
+    
+    position: relative;
+    left: 200px;
+    top: 100px
+}
+.intro{
+    margin: 50px 0;
+    color: #EAE7B1;
+    
+}
+.intro h2{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    top: 80px;
+}
+.intro p{
+    font-size: 30px;
+    position: relative;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.middle-container img{
+    width: 200px;
+    height: 200px;
+}
+.middle-container h2{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.profile{
+    text-align: center;
+}
+h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #FFF01F;
+    font-size: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 10px auto;
+}
+.chillies{
+    float: left;
+    margin-right: 20px;
+}
+.giphy{
+    float: right;
+}
+.skill-row.comp{
+    margin-top:120px ;
+    margin-bottom: 140px;
+}
+.skill-row p{
+    line-height: 2;
+}
+.bottom-container{
+    text-align: center;
+    margin-top: 100px;
+    background-color: #3C6255;
+    padding: 50px 0;
+}
+.contact-me{
+    text-align: center;
+}
+.contact-me p{
+    word-spacing: 2;
+}
+.contact-me a{
+    text-decoration: none;
+    color: #49fb35;
+    font-size: 50px;
+}
+.bottom-container p{
+    position: relative;
+    top: 40px;
+}
+.bottom-container a{
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 20px;
+    color: white;
+}
